@@ -1,2 +1,2 @@
 ## BankAccountsAPI
-<h4>create, update, delete, remove bank accounts using library mongoose and expressJs</h4> 
+<h4>create, update, delete, remove bank accounts using expressJs and mongo db</h4> 
